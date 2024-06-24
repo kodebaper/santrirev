@@ -1,0 +1,65 @@
+baseURL = 'https://www.santricyber.com/'
+languageCode = 'en-us'
+title = 'santricyber'
+theme = 'pehtheme-hugo'
+
+paginate = '9' # <- Set the desired number of posts per page 
+summaryLength = '20' # <- 20 words are approximately 160 characters
+googleAnalytics = 'G-MEASUREMENT_ID' # <- Your GA-4
+disqusShortname = 'santricyber'
+
+[params]
+	# Meta description, not exceeding 160 characters, used for the meta description within the HTML head
+	description = 'self-development, code programs, and talking Technology, command line, FOSS, Linux.'
+	mainSections = 'posts'
+
+
+[[params.author]]
+  email = "dimas@santricyber.com"
+  name = "santricyber"
+
+[Author]
+  # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
+  #name = "kodebaper"
+  website = "https://github.com/kodebaper"
+  # email = "dimas@santricyber.com"
+
+
+[author]
+	name = 'Dimas Setiyadi'
+	bio = 'This is my site, any opinions expressed here are my own and do not necessarily reflect the opinions or positions of my employer, contact me at [dimas@santricyber.com]'
+	avatar = '/images/santricyber1.png'
+	twitter = 'https://twitter.com/insertapps'
+
+[menu] # Menu management
+	[[menu.main]]
+		name = 'Home'
+		pageRef = '/'
+		weight = 10
+	[[menu.main]]
+		name = 'About'
+		pageRef = '/about'
+		weight = 15
+	[[menu.main]]
+		name = 'Tags'
+		pageRef = '/tags'
+		weight = 20
+	[[menu.main]]
+		name = ''
+		pageRef = ''
+		weight = 25
+
+[build] 
+  publish = "public"
+  command = "hugo"
+
+[context.production.environment]
+  HUGO_VERSION = "0.125.3" # if older, use format: 0.53 (no trailing zero)
+  HUGO_ENV = "production"
+  HUGO_ENABLEGITINFO = "true"
+  
+[context.branch-deploy.environment]
+  HUGO_VERSION = "0.125.3" # if older, use format: 0.53 (no trailing zero)
+
+[context.deploy-preview.environment]
+  HUGO_VERSION = "0.125.3"
