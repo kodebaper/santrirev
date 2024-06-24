@@ -19,7 +19,6 @@ disqusShortname = 'santricyber'
   name = "santricyber"
 
 [Author]
-  # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
   #name = "kodebaper"
   website = "https://github.com/kodebaper"
   # email = "dimas@santricyber.com"
