@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Linux on santricyber</title>
+    <title>linux on santricyber</title>
     <link>https://www.santricyber.com/tags/linux/</link>
-    <description>Recent content in Linux on santricyber</description>
-    <generator>Hugo</generator>
+    <description>Recent content in linux on santricyber</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 19 Mar 2024 06:04:37 +0700</lastBuildDate>
     <atom:link href="https://www.santricyber.com/tags/linux/index.xml" rel="self" type="application/rss+xml" />

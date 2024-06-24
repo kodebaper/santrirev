@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Staticsite on santricyber</title>
+    <title>staticsite on santricyber</title>
     <link>https://www.santricyber.com/tags/staticsite/</link>
-    <description>Recent content in Staticsite on santricyber</description>
-    <generator>Hugo</generator>
+    <description>Recent content in staticsite on santricyber</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 19 Mar 2024 07:05:56 +0700</lastBuildDate>
     <atom:link href="https://www.santricyber.com/tags/staticsite/index.xml" rel="self" type="application/rss+xml" />

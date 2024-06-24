@@ -4,7 +4,7 @@
     <title>santricyber</title>
     <link>https://www.santricyber.com/</link>
     <description>Recent content on santricyber</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 24 May 2024 14:55:44 +0700</lastBuildDate>
     <atom:link href="https://www.santricyber.com/index.xml" rel="self" type="application/rss+xml" />
@@ -90,7 +90,9 @@
       <link>https://www.santricyber.com/posts/2024/solved-error-failed-to-push-some-refs/</link>
       <pubDate>Tue, 19 Mar 2024 06:36:55 +0700</pubDate>
       <guid>https://www.santricyber.com/posts/2024/solved-error-failed-to-push-some-refs/</guid>
-      <description>[SOLVED]&#xA;error: failed to push some refs to ! [Rejected] main -&amp;gt; main (fetch first) (blaaa…..blaaa&amp;hellip; blaaa)&#xA;in this case, you just use this command below to solve the problem</description>
+      <description>[SOLVED]
+error: failed to push some refs to ! [Rejected] main -&amp;gt; main (fetch first) (blaaa…..blaaa&amp;hellip; blaaa)
+in this case, you just use this command below to solve the problem</description>
     </item>
     <item>
       <title>SOLVED Error Says to Remove Site From .Gitmodules but It’s Not There Hugo Submodule With PaperMod</title>
@@ -160,7 +162,8 @@
       <link>https://www.santricyber.com/posts/2024/information-gathring/</link>
       <pubDate>Thu, 07 Mar 2024 06:47:43 +0700</pubDate>
       <guid>https://www.santricyber.com/posts/2024/information-gathring/</guid>
-      <description>IMPORTANT! Notes on ethical hacking series I am not a hacker!,&amp;hellip;&#xA;although in this series there is a discussion about hacking but hacking in the sense of ethical hacking to build awareness of the security side in cyberspace and learning, the writings that I make are purely as a record of the results of my knowledge and in share for purposes that I hope will be useful to anyone who reads it with good intentions including increasing awareness of security in cyberspace and overcoming losses due to cybercrime.</description>
+      <description>IMPORTANT! Notes on ethical hacking series I am not a hacker!,&amp;hellip;
+although in this series there is a discussion about hacking but hacking in the sense of ethical hacking to build awareness of the security side in cyberspace and learning, the writings that I make are purely as a record of the results of my knowledge and in share for purposes that I hope will be useful to anyone who reads it with good intentions including increasing awareness of security in cyberspace and overcoming losses due to cybercrime.</description>
     </item>
     <item>
       <title>About</title>

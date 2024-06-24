@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Solved on santricyber</title>
+    <title>solved on santricyber</title>
     <link>https://www.santricyber.com/tags/solved/</link>
-    <description>Recent content in Solved on santricyber</description>
-    <generator>Hugo</generator>
+    <description>Recent content in solved on santricyber</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Mar 2024 15:09:05 +0700</lastBuildDate>
     <atom:link href="https://www.santricyber.com/tags/solved/index.xml" rel="self" type="application/rss+xml" />
@@ -34,7 +34,9 @@
       <link>https://www.santricyber.com/posts/2024/solved-error-failed-to-push-some-refs/</link>
       <pubDate>Tue, 19 Mar 2024 06:36:55 +0700</pubDate>
       <guid>https://www.santricyber.com/posts/2024/solved-error-failed-to-push-some-refs/</guid>
-      <description>[SOLVED]&#xA;error: failed to push some refs to ! [Rejected] main -&amp;gt; main (fetch first) (blaaa…..blaaa&amp;hellip; blaaa)&#xA;in this case, you just use this command below to solve the problem</description>
+      <description>[SOLVED]
+error: failed to push some refs to ! [Rejected] main -&amp;gt; main (fetch first) (blaaa…..blaaa&amp;hellip; blaaa)
+in this case, you just use this command below to solve the problem</description>
     </item>
     <item>
       <title>SOLVED Error Says to Remove Site From .Gitmodules but It’s Not There Hugo Submodule With PaperMod</title>
