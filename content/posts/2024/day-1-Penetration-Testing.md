@@ -13,4 +13,7 @@ tags:
 draft: false
 ---
 
-day 1 to be a penetration testing
+#### day 1 to be a penetration testing
+
+TOC
+1. Fundamentals
